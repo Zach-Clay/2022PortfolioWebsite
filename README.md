@@ -6,4 +6,5 @@ This website acts as my portfolio. It contains information about me as well as m
 ## Technologies
 This website was developed using AngularJS (overkill, I know). I also utilized Bootstrap to ensure that the website is responsive and mobile first.
 ...
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.9.
