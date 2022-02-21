@@ -1,0 +1,17 @@
+.container.one {
+    padding: 40px;
+}
+
+.container.one .text-center h1 {
+    margin-bottom: 20px;
+    color: rgb(73, 94, 126);
+}
+
+.container.two {
+    padding: 20px;
+}
+
+.row {
+    justify-content: center;
+    padding: 30px;
+}

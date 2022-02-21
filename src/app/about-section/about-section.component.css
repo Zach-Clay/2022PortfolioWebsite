@@ -1,0 +1,17 @@
+.wrapper {
+    padding: 80px;
+}
+
+.container .text-center h1 {
+    margin-bottom: 30px;
+    color: rgb(73, 94, 126);
+}
+
+.row img {
+    border-radius: 5%;
+}
+
+.row .col.text p {
+    font-size: 20px;
+    font-weight: 450;
+}

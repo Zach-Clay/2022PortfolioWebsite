@@ -1,0 +1,18 @@
+.wrapper {
+    background-color: rgb(73, 94, 126);
+    padding-bottom: 40px;
+}
+
+.container h1 {
+    padding: 35px;
+    color: white;
+}
+
+.col p {
+    font-size: 20px;
+    color: rgb(167, 167, 167);
+}
+
+.col h4 {
+    color: rgb(211, 218, 250);
+}

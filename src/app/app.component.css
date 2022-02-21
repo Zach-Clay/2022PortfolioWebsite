@@ -1,0 +1,42 @@
+
+header
+{
+    background-image: linear-gradient(rgba(29, 26, 26, 0.5),rgba(39, 37, 37, 0.5)), url(../assets/images/Background.jpg);
+    background-size: cover;
+    min-height: 100vh;
+    background-position: center;    
+    overflow: hidden;
+}
+
+.hero {
+    overflow: hidden;
+    width: 100%;
+    text-align: center;
+}
+
+.hero h1 {
+    color: white;
+    font-family: monospace;
+    text-shadow: 3px 3px rgb(73, 94, 126);
+    text-transform: uppercase;
+    font-size: 65px;
+    font-weight: 700;
+    margin-top: 5%;
+}
+
+.navbar a{
+    padding-left: 25px;
+}
+
+footer
+{
+    margin: 0;
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(255, 255, 255);
+    overflow: hidden;
+}
+
+footer p {
+    margin-top: 7px;
+}
