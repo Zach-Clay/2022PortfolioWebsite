@@ -12,6 +12,10 @@
 }
 
 .row {
-    justify-content: center;
     padding: 30px;
+}
+
+.text {
+    margin-top: auto;
+    margin-bottom: auto;
 }
