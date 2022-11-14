@@ -7,11 +7,19 @@
     color: rgb(73, 94, 126);
 }
 
-.row img {
-    border-radius: 5%;
+.image {
+    margin-left: auto;
+    margin-right: auto;
 }
 
-.row .col.text p {
+.image img {
+    border-radius: 5%;
+    min-width: 230px;
+    height: auto;
+}
+
+.text {
     font-size: 20px;
-    font-weight: 450;
+    margin-top: auto;
+    margin-bottom: auto;
 }

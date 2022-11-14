@@ -9,7 +9,6 @@
 }
 
 .row {
-    justify-content: center;
     padding: 30px;
     padding-bottom: 60px;
 }
@@ -21,12 +20,10 @@
     padding-bottom: 5px;
 }
 
-.text-center.two {
-    padding-top: 35px;
-}
-
 .row ul {
     width: 50%;
+    margin-left: auto;
+    margin-right: auto;
     padding: 0px;
     border-radius: 15%;
 }
@@ -36,6 +33,6 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: black;
     background-color: rgba(255, 255, 255, 0.829);
-    font-weight: 600;
+    font-weight: 500;
     border-radius: 5%;
 }
