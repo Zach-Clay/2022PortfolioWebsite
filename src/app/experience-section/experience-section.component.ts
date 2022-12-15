@@ -14,7 +14,7 @@ export class ExperienceSectionComponent implements OnInit {
 
   ngOnInit(): void {
     this.schneiderExp = "Gained skills and experience in full stack web development utilizing Vue.js, Node.js, and Express.js JavaScript Frameworks. I also gained familiarity with Microsoft SQL Server, Git, Github, and Azure DevOps.";
-    this.kimleyExp = "Further developed my full stack web development skills using AngularJS, ASP.Net Web API’s, JavaScript, C#, Microsoft SQL Server and Azure Devops.";
+    this.kimleyExp = "Further developed my full stack web development skills using Angular, ASP.Net Web API’s, JavaScript, C#, Microsoft SQL Server and Azure Devops.";
   }
 
 }
