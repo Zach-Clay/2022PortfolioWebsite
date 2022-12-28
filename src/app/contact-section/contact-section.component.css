@@ -8,11 +8,12 @@
     color: white;
 }
 
-.col p {
+.phone p, .email p {
     font-size: 20px;
-    color: rgb(167, 167, 167);
+    color: black;
+    color:rgb(204, 204, 204);
 }
 
-.col h4 {
-    color: rgb(211, 218, 250);
+.phone h4, .email h4 {
+    color: rgb(227, 227, 227);
 }
