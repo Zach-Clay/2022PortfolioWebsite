@@ -1,18 +1,22 @@
-.container.one {
+.wrapper {
     padding: 40px;
 }
 
-.container.one .text-center h1 {
+.wrapper h1 {
     margin-bottom: 20px;
     color: rgb(73, 94, 126);
 }
 
-.container.two {
+.content {
     padding: 20px;
 }
 
-.row {
+.exp {
     padding: 30px;
+}
+
+.exp img {
+    border-radius: 25%;
 }
 
 .text {
