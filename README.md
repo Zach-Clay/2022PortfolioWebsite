@@ -1,3 +1,5 @@
+## !! CURRENTLY BEING REDESIGNED !!
+
 # MyWebsite
 Website URL: https://zach-clay.github.io/
 
