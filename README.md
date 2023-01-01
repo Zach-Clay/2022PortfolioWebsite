@@ -1,6 +1,6 @@
 ## !! CURRENTLY BEING REDESIGNED !!
 
-# MyWebsite
+# My Portfolio Website
 Website URL: https://zach-clay.github.io/
 
 This website acts as my portfolio. It contains information about me as well as my relevant experience and skills for software engineering. This website also serves as a project that I can showcase to employers.
