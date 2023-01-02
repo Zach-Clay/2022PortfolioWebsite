@@ -1,9 +1,7 @@
-## !! CURRENTLY BEING REDESIGNED !!
-# @ https://github.com/Zach-Clay/2023PortfolioWebsite
+## This Website Has Been Redesigned!
+# @ https://github.com/Zach-Clay/Zach-Clay.github.io
 
-# My Portfolio Website
-Website URL: https://zach-clay.github.io/
-
+# 2022 Portfolio Website
 This website acts as my portfolio. It contains information about me as well as my relevant experience and skills for software engineering. This website also serves as a project that I can showcase to employers.
 
 ## Technologies
